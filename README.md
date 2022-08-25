@@ -1,2 +1,2 @@
-# MinecraftTranslationRU_UA
+# MinecraftTranslation RU-UK
  
