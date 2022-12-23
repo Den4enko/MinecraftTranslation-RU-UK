@@ -19,3 +19,6 @@ It turns this (Свекольный суп):
 This made because of Russian-speak Ukrainians prefer saying "Borsh" instead of "Beetrootsoup".
 
 It's also changes "Свёкла" into "Буряк".
+
+## Download for latest MC version:
+- Release version: [Click](/CustomRussianForMinecraft/CustomRussianForMinecraft.zip)
