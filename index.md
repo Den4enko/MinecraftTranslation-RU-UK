@@ -21,4 +21,4 @@ This made because of Russian-speak Ukrainians prefer saying "Borsh" instead of "
 It's also changes "Свёкла" into "Буряк".
 
 ## Download for latest MC version:
-- Release version: [Click](/CustomRussianForMinecraft/CustomRussianForMinecraft.zip)
+- Release version: [Click](https://github.com/Den4enko/CustomRussianForMinecraft/releases/latest/download/CustomRussianForMinecraft.zip)
