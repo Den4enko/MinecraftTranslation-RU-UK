@@ -1,2 +1,0 @@
-# MinecraftTranslation RU-UK
- 
