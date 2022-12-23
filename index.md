@@ -1,5 +1,8 @@
-# CustomRussianForMinecraft
-  DISCLAIMER: This Resourcepack made only for fun!
+- [Homepage](/)
+
+## About:
+
+  DISCLAIMER: This Resourcepack is made only for fun!
   
 This resourcepack adds Ukranian dialect for Russian language. And also has some funny additions.
 
